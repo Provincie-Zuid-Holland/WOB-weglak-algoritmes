@@ -4,7 +4,7 @@
 
 ## Inleiding
 
-In het kader van het WOB/WOO hebben wij algoritmes ontwikkeld om persoonsgegevens te identificeren in documenten. Geindetificeerd kunnen worden gebruikt om documenten te markeren en weg te lakken in Adobe Acrobat.
+In het kader van het WOB/WOO hebben wij algoritmes ontwikkeld om persoonsgegevens te identificeren in documenten. Geïdentificeerd gegevens kunnen worden gebruikt om documenten te markeren en weg te lakken in Adobe Acrobat.
 Het bestandstype van de documenten moet wel pdf zijn. Om documenten naar pdf te converteren kan de [PDF-conversion-tool](https://github.com/Provincie-Zuid-Holland/PDF-conversion-tool) gebruikt worden. 
 
 De volgende persoonsgegevens kunnen worden herkend:
@@ -23,3 +23,8 @@ Twee Databricks notebooks zijn gebruikt om verschillende stappen te verrichten:
 
 ## Contact
 Voor meer informatie en toegang tot de code contact opnemen met vdwh@pzh.nl.
+
+## Auteurs
+- Joana Cardoso
+- Michael de Winter
+- Dennis van Muijen
